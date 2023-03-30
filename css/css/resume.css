@@ -1,0 +1,57 @@
+body{
+   background-color: blanchedalmond;
+}
+
+.home{
+    background-color: chocolate;
+    width: max-content;
+    height: max-content;
+    margin-left: 1000px;
+    margin-top: 5px;
+}
+
+.box{
+
+  width: cover; 
+  height: 350px; 
+  border: 1px solid rgb(57, 57, 57);
+  margin: 0 auto;
+  background-color: burlywood;
+  padding-top: 10px;
+
+}
+
+
+.kyle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(170, 195, 218);
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.h{
+    text-align: center;
+}
+
+.logo{
+    height: 20px;
+    width: 30px;
+}
+
+.link{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.acc{
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+.con{
+    text-align: center;
+}
+
+
