@@ -1,0 +1,37 @@
+body{
+  background-color: burlywood;
+  background-position: center;
+  background-size: cover;
+  color:rgb(100, 44, 4);
+  
+}
+.pepte{
+   text-align: center;
+}
+
+.home{
+    background-color: chocolate;
+    height: max-content;
+    width: max-content;
+    float: right;
+
+}
+
+.imgf{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.mug{
+    height: 100px;
+    width: 300px;
+   float: right;
+}
+
+.acc{
+    height: 40px;
+    width: 50px;
+    float: right;
+}
