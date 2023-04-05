@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+}
+main{
+    padding: 0;
+    margin: 0;
+}
+
+.box{
+    background-color: burlywood;
+    height: 200px;
+    width: 1200px;
+
+}
+.pic{
+    width: 150px;
+    height: 140px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.head{
+    text-align: center;
+}
